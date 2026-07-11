@@ -12,3 +12,4 @@ Cybersecurity and AI Security Researcher based in Abuja, Nigeria. Founder of [Kh
 
 #### Featured work
 - [rag-corpus-poisoning-iot-security](https://github.com/Kh3m/rag-corpus-poisoning-iot-security) — corpus poisoning attacks against RAG-based IoT/cyber threat-intelligence assistants, with a lightweight provenance defense
+- [rag-bootcamp-projects](https://github.com/Kh3m/rag-bootcamp-projects) — hands-on RAG engineering across hybrid search, agentic pipelines, GraphRAG, and evaluation
