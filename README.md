@@ -12,6 +12,6 @@ Cybersecurity and AI Security Researcher based in Abuja, Nigeria. Founder of [Kh
 
 #### Featured work
 - [rag-corpus-poisoning-iot-security](https://github.com/Kh3m/rag-corpus-poisoning-iot-security) — corpus poisoning attacks against RAG-based IoT/cyber threat-intelligence assistants, with a lightweight provenance defense
-- [privacy-preserving-scd-baseline-prediction](https://github.com/Kh3m/rag-corpus-poisoning-iot-security](https://github.com/Kh3m/privacy-preserving-scd-baseline-prediction) — Privacy-preserving ML system modeling an individual sickle cell patient's steady-state PCV/Hb baseline using homomorphic encryption, federated learning, and differential privacy.
+- [privacy-preserving-scd-baseline-prediction](https://github.com/Kh3m/rag-corpus-poisoning-iot-security](https://github.com/Kh3m/privacy-preserving-scd-baseline-prediction ) — Privacy-preserving ML system modeling an individual sickle cell patient's steady-state PCV/Hb baseline using homomorphic encryption, federated learning, and differential privacy.
 - [rag-bootcamp-projects](https://github.com/Kh3m/rag-bootcamp-projects) — hands-on RAG engineering across hybrid search, agentic pipelines, GraphRAG, and evaluation
 - [gen-ai-training](https://github.com/Kh3m/gen-ai-training) — applied AI/ML skill-building across NLP, deep learning, and agentic systems, from text preprocessing to model architectures
