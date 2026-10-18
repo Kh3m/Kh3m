@@ -4,11 +4,11 @@ AI Security Researcher based in Abuja, Nigeria. I study how retrieval-augmented 
 
 I also founded [Khemshield](https://khemshield.com), a cybersecurity and AI training organization that has trained over 100 people across eleven Nigerian states.
 
-### Research interests
-- **RAG / LLM Security:** corpus poisoning attacks on RAG-based cybersecurity assistants, and provenance-based defenses
+### Research Interests
+- **RAG & LLM Security:** corpus poisoning attacks on RAG-based cybersecurity assistants, and provenance-based defenses
+- **AI Security & Trustworthiness:** building AI systems people can rely on, and testing where that trust breaks
 - **Adversarial Machine Learning:** how attackers manipulate the data and inputs that ML systems rely on
-- **Privacy-Preserving Systems:** homomorphic encryption, federated learning, and differential privacy for sensitive data
-- **AI Security & Trustworthiness:** building AI systems that people can rely on, and testing where that trust breaks
+- **Privacy-Preserving Machine Learning:** homomorphic encryption, federated learning, and differential privacy for sensitive data
 
 ### Background
 - BSc Cybersecurity, Bayero University Kano. Best graduating student, CGPA 4.94/5.00
