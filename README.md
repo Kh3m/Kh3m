@@ -1,17 +1,27 @@
-### Hi, I'm Abdul Kareem Adamu (Kh3m) 👋
+## Abdul Kareem Adamu (Kh3m)
 
-Cybersecurity and AI Security Researcher based in Abuja, Nigeria. Founder of [Khemshield](https://khemshield.com), a cybersecurity and AI training organization.
+AI Security Researcher based in Abuja, Nigeria. I study how retrieval-augmented generation (RAG) systems and LLMs can be attacked, and how to defend them with methods that are light enough for real-world, low-resource settings.
 
-- 🔭 Currently researching corpus poisoning attacks against RAG-based cybersecurity assistants and lightweight defenses for edge-constrained environments
-- 🎓 BSc Cybersecurity, Bayero University Kano (best graduating student, CGPA 4.94/5.00)
-- 📄 Published on privacy-preserving computation using homomorphic encryption; co-authored NLP-based phishing detection work under review
-- 🌱 Exploring the intersection of LLMs, RAG architectures, and security, both attacking and defending them
-- 👨‍🏫 I run free live classes on AI and LLM fundamentals through Khemshield, open across multiple Nigerian states
-- 💞️ Open to collaborating on RAG/LLM security research, adversarial ML, and applied cybersecurity projects
-- 📫 Reach me at abdulkareem@khemshield.com
+I also founded [Khemshield](https://khemshield.com), a cybersecurity and AI training organization that has trained over 100 people across eleven Nigerian states.
 
-#### Featured work
-- [rag-corpus-poisoning-iot-security](https://github.com/Kh3m/rag-corpus-poisoning-iot-security) — corpus poisoning attacks against RAG-based IoT/cyber threat-intelligence assistants, with a lightweight provenance defense
-- [privacy-preserving-scd-baseline-prediction](https://github.com/Kh3m/rag-corpus-poisoning-iot-security](https://github.com/Kh3m/privacy-preserving-scd-baseline-prediction ) — Privacy-preserving ML system modeling an individual sickle cell patient's steady-state PCV/Hb baseline using homomorphic encryption, federated learning, and differential privacy.
-- [rag-bootcamp-projects](https://github.com/Kh3m/rag-bootcamp-projects) — hands-on RAG engineering across hybrid search, agentic pipelines, GraphRAG, and evaluation
-- [gen-ai-training](https://github.com/Kh3m/gen-ai-training) — applied AI/ML skill-building across NLP, deep learning, and agentic systems, from text preprocessing to model architectures
+### Research focus
+- Corpus poisoning attacks on RAG-based cybersecurity assistants, and provenance-based defenses
+- Adversarial machine learning and LLM security
+- Privacy-preserving ML (homomorphic encryption, federated learning, differential privacy)
+
+### Background
+- BSc Cybersecurity, Bayero University Kano. Best graduating student, CGPA 4.94/5.00
+- Published: *Privacy-Preserving Data Analysis Using Homomorphic Encryption*, Bayero Journal of Physics and Mathematical Sciences
+- In progress: phishing detection and user education study (abstract submitted to a Wiley publication)
+
+### Featured work
+| Project | Description |
+|---|---|
+| [rag-corpus-poisoning-iot-security](https://github.com/Kh3m/rag-corpus-poisoning-iot-security) | Corpus poisoning attacks on RAG-based IoT and threat-intelligence assistants, with a lightweight provenance defense |
+| [privacy-preserving-scd-baseline-prediction](https://github.com/Kh3m/privacy-preserving-scd-baseline-prediction) | Predicts a sickle cell patient's steady-state PCV/Hb baseline using HE, federated learning, and differential privacy |
+| [rag-bootcamp-projects](https://github.com/Kh3m/rag-bootcamp-projects) | Hands-on RAG engineering: hybrid search, agentic pipelines, GraphRAG, and evaluation |
+| [gen-ai-training](https://github.com/Kh3m/gen-ai-training) | Applied NLP, deep learning, and agentic systems, from text preprocessing to model design |
+
+### Get in touch
+I'm open to collaborating on RAG and LLM security, adversarial ML, and applied security research.
+Email: abdulkareem@khemshield.com
