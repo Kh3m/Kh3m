@@ -25,7 +25,6 @@ I also founded [Khemshield](https://khemshield.com), a cybersecurity and AI trai
 ### Learning
 I keep my study work in the open:
 - [gen-ai-training](https://github.com/Kh3m/gen-ai-training): applied NLP, deep learning, and agentic systems
-- [ml-training](https://github.com/Kh3m/ml-training): classical machine learning, from regression to anomaly detection
 - [security-training](https://github.com/Kh3m/security-training): cryptography and core security concepts
 
 ### Get in touch
