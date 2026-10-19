@@ -2,7 +2,7 @@
 
 AI Security Researcher based in Abuja, Nigeria. I study how retrieval-augmented generation (RAG) systems and LLMs can be attacked, and how to defend them with methods that are light enough for real-world, low-resource settings.
 
-I also founded [Khemshield](https://khemshield.com), a cybersecurity and AI training organisation that has trained over 100 people across eleven Nigerian states.
+I also founded [Khemshield](https://khemshield.com), a cybersecurity and AI training organisation that has trained over 264 people across eleven Nigerian states.
 
 ### Research Interests
 - **RAG & LLM Security:** corpus poisoning attacks on RAG-based cybersecurity assistants, and provenance-based defences
